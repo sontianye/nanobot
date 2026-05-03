@@ -1,0 +1,25 @@
+nanobot/agent/context.py
+  db9e3d234617bbfc 9,17-38,53-58,60-87,94-120
+tests/agent/test_context_prompt_cache.py
+  db9e3d234617bbfc 358-496
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.15",
+  "base_commit_sha": "cc034289c40c9e6c09a0b7a740bf4b70962f96b6",
+  "prompts": {
+    "db9e3d234617bbfc": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "35fe3b06-ae0a-428e-a811-d64bbb3e38f1",
+        "model": "glm-5.1"
+      },
+      "human_author": "songty (songtianye)",
+      "messages": [],
+      "total_additions": 238,
+      "total_deletions": 16,
+      "accepted_lines": 224,
+      "overriden_lines": 0
+    }
+  }
+}
